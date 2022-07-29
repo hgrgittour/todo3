@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "897ff652-59d9-4f5d-a79c-91119f550800",
+		"name": "test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4339141"
+	},
+	"item": [
+		{
+			"name": "request with branche and country name",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
